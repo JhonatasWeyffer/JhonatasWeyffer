@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia. Meu foco é criar soluções com
 
 ---
 
-### 🛠️ Minha Stack
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev">
