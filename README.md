@@ -1,165 +1,71 @@
-<h1 align="center">👋 Olá, eu sou Jônatas Weyffer</h1>
+# Olá! Eu sou Jônatas Weyffer Lira de Oliveira 👋
 
-<p align="center">
-  💻 Desenvolvedor Full-Stack • 🛠️ Infraestrutura • 🔐 Cibersegurança  
-</p>
+**Técnico em Informática para Internet | Desenvolvedor Full-Stack**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-FullStack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-NestJS-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Linux-black?style=for-the-badge" />
-</p>
+Sou um profissional apaixonado por tecnologia — que é tanto minha área de atuação quanto um dos meus maiores hobbies. Resido no Amazonas e tenho forte foco em desenvolvimento de sistemas e infraestrutura. Minha especialidade é criar soluções de ponta a ponta, projetando desde a modelagem de banco de dados até a estruturação e deploy de plataformas escaláveis. 
 
----
+### 👨‍💻 Um pouco sobre mim
 
-## 🚀 Sobre mim
-
-Sou um profissional apaixonado por tecnologia, desenvolvimento de sistemas e infraestrutura, residindo no Amazonas.
-
-Minha especialidade é criar soluções completas de ponta a ponta — desde a modelagem de banco de dados até o desenvolvimento e deploy de plataformas escaláveis.
-
-Também atuo com suporte técnico corporativo e estudo continuamente redes e cibersegurança.
+- 🔭 **Atualmente estou trabalhando em:** Atuo como Suporte Técnico/TI e Desenvolvedor (PHP e MySQL) em uma indústria do setor pesqueiro, onde também estou aprendendo AdvPL e TOTVS. Paralelamente, sou co-criador e desenvolvedor do **EnoraPMS**, uma plataforma web SaaS de gerenciamento hoteleiro multi-tenant.
+- 🌱 **Atualmente estou aprendendo:** Arquitetura de aplicações mobile (com foco no desenvolvimento do app *EnoraPMS*) e aprofundando meus estudos em Cibersegurança e Redes. Sou formado como Técnico em Informática e Técnico em Informática para Internet.
+- 👯 **Estou procurando colaborar em:** Projetos de código aberto focados no ecossistema Node.js, infraestrutura escalável, frontend, mobile e desenvolvimento de softwares utilizando bancos de dados relacionais.
+- 💬 **Pergunte-me sobre:** NestJS, Prisma, PostgreSQL, MySQL, Modelagem de Dados, Git/GitHub, Docker, HTML/CSS, React + Vite, Vue, Angular, Java, Python, Ruby, Node.js, Django, REST APIs, n8n, Integração de APIs de pagamento, Railway, Suporte Técnico corporativo, Servidores Linux e Ferramentas de IA!
 
 ---
 
-## 🔥 Projeto em Destaque
+### 🛠️ Ferramentas e Tecnologias
 
-### 🏨 EnoraPMS (SaaS Hoteleiro)
-
-Sistema de gerenciamento hoteleiro **multi-tenant**, desenvolvido com foco em escalabilidade e alta disponibilidade.
-
-**Stack principal:**
-
-* NestJS + Prisma
-* PostgreSQL
-* Arquitetura modular
-* Autenticação JWT (RBAC)
-
-📌 Atualmente estou desenvolvendo e evoluindo a plataforma junto à equipe.
-
----
-
-## 👨‍💻 Experiência Atual
-
-* 💼 Suporte Técnico / TI em fábrica de pescado
-* 🧩 Desenvolvimento com PHP + MySQL
-* 📊 Aprendendo AdvPL e ecossistema TOTVS
-* 🚀 Desenvolvimento do SaaS EnoraPMS
-
----
-
-## 🌱 Em aprendizado
-
-* Arquitetura de aplicações mobile (EnoraPMS App)
-* Cibersegurança e redes
-* Evolução em sistemas escaláveis
+<div style="display: inline_block"><br>
+  <!-- Backend & Linguagens -->
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
+  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS">
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
+  <img align="center" alt="Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby">
+  
+  <!-- Frontend -->
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular">
+  
+  <!-- Banco de Dados & ORM -->
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+  <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
+  <img align="center" alt="Supabase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase">
+  
+  <!-- Infraestrutura & Ferramentas -->
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux">
+</div>
 
 ---
 
-## 🤝 Colaboração
+### 📊 Estatísticas do GitHub
 
-Estou aberto a colaborar em:
-
-* Projetos Open Source (Node.js / Backend)
-* Infraestrutura escalável
-* Frontend moderno (React, Vue, Angular)
-* Sistemas completos (Full-stack)
-
----
-
-## 🧠 Conhecimentos Técnicos
-
-### 🖥️ Backend & APIs
-
-* Node.js / NestJS
-* PHP
-* Django
-* REST API / RESTful
-* Integrações de pagamento
-* N8N (automação)
-
-### 🗄️ Banco de Dados
-
-* PostgreSQL
-* MySQL
-* Modelagem de dados
-
-### 🎨 Frontend
-
-* HTML / CSS
-* React + Vite
-* Vue.js
-* Angular
-
-### ⚙️ DevOps & Infraestrutura
-
-* Linux (servidores)
-* Docker
-* Git / GitHub
-* Railway
-
-### 🔐 Outros
-
-* Cibersegurança (em estudo)
-* Suporte técnico corporativo
-* Configuração de servidores
-* Ferramentas de IA
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<div>
+  <a href="https://github.com/seu-usuario-aqui">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@SEU_USUARIO">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  🚀 <strong>Construindo soluções completas, do backend à infraestrutura</strong>
-</p>
+### 🐍 Minhas Contribuições
+
+![Snake animation](https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contatos
+
+<div>
+  <a href="mailto:seu-email@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.tiktok.com/@seu-usuario-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+</div>
