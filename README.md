@@ -1,9 +1,7 @@
 # Olá! Eu sou Jônatas Weyffer 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27D481&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;JhonWeyffer;Solucionando+problemas+reais+com+código" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&pause=1000&color=3CF70C&background=34FF1D00&center=true&vCenter=true&width=435&lines=Hello+Friends%F0%9F%91%8B;JhonWeyffer%3F+Esse+sou+eu%F0%9F%91%8D;New+packages%3A+npm+install+love+(y%2Fn)%3F;Erro+505;Strawberry+Ice+Cream;Mais+JavaScript%2C+Menos+PHP!;Voc%C3%AA+realmente+est%C3%A1+lendo+isso%3F;Sempre+disposto+a+aprender!;Sempre+Projetando!;Eu+posso+fazer+isso+o+dia+todo!" alt="Typing SVG" /></a>
 </div>
 
 <br/>
