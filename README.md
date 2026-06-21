@@ -45,8 +45,8 @@ Sou um desenvolvedor apaixonado por tecnologia. Meu foco é criar soluções com
 ### 📊 Meus Status
 
 <div align="center">
-  <a href="https://github.com/JhonWeyffer">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonWeyffer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=15"/>
+  <a href="https://github.com/JhonatasWeyffer">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatasWeyffer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=15"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonWeyffer&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/>
   </a>
 </div>
