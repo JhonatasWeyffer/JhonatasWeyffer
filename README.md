@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27D481&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Técnico+em+Informática+para+Internet;Solucionando+problemas+reais+com+código" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27D481&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;JhonWeyffer;Solucionando+problemas+reais+com+código" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia. Meu foco é criar soluções com
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,nodejs,nestjs,react,vue,angular,nextjs,html,css,postgres,mysql,prisma,docker,linux,git&perline=10" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,java,nodejs,nestjs,vue,angular,vite,flutter,nextjs,html,css,postgres,mysql,prisma,docker,linux,git&perline=10" alt="Minhas Habilidades" />
   </a>
 </div>
 
@@ -37,8 +37,6 @@ Sou um desenvolvedor apaixonado por tecnologia. Meu foco é criar soluções com
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasWeyffer&layout=compact&langs_count=8&bg_color=0D1117&title_color=4ade80&text_color=c9d1d9&border_color=30363d&border_radius=15"/>
   </a>
 </div>
-
-> **💡 Nota:** O gráfico acima está configurado para ocultar HTML/CSS e destacar as linguagens de programação backend/lógica que você domina (JS, Python, TS, PHP, Java). Certifique-se de ter repositórios públicos contendo essas linguagens para que o GitHub consiga contabilizá-las e exibi-las no card!
 
 ---
 
