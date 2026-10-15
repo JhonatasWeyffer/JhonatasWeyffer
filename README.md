@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia. Meu foco é criar soluções com
 - 🔭 **Construindo:** Atuo como Suporte Técnico/TI e desenvolvedor (PHP/MySQL) na indústria pesqueira. Em paralelo, sou co-criador do **EnoraPMS**, um SaaS de gerenciamento hoteleiro multi-tenant.
 - 🌱 **Aprendendo:** Arquitetura de aplicações mobile (desenvolvendo a base do app *EnoraPMS*), Cibersegurança, AdvPL e TOTVS.
 - 🤝 **Buscando colaborar em:** Projetos open-source no ecossistema Node.js, infraestrutura escalável, frontend, mobile e bancos de dados relacionais.
-- 💬 **Pode me perguntar sobre:** NestJS, Prisma, PostgreSQL/MySQL, Docker, Node.js, React, Vue, Angular, Java, PHP, automações com n8n e servidores Linux.
+- 💬 **Pode me perguntar sobre:** NestJS, Prisma, PostgreSQL/MySQL, Docker, Node.js, React, Vue, Angular, PHP, automações com n8n e servidores Linux.
 
 ---
 
